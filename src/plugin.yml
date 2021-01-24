@@ -1,0 +1,10 @@
+name: KingdomPlugin
+description: a custom kingdom plugin
+version: 1.0.0-Alpha
+main: net.darkunscripted.KingdomPlugin.Main
+
+commands:
+  kingdom:
+    description: main kingdom command
+  skill:
+    description: skills command

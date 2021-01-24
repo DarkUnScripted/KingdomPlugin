@@ -1,0 +1,34 @@
+options:
+  war: true
+  skills: true
+  kingdom-level: true
+  ore-respawn: true
+  custom-deathmessage: true
+  kingdom-tag-chat: true
+  kingdom-level-chat: true
+  kingdom-max-players: true
+
+settings:
+  skills:
+    skill-xp-multiplier: 2.0
+    max-farming-level: 10
+    max-mining-level: 10
+    max-woodcutter-level: 10
+
+    farming:
+      wheat: 1
+      nether_wart: 1
+      carrot: 1
+      potato: 1
+
+    mining:
+      coal: 1
+      redstone: 1
+      lapis: 1
+      iron: 1
+      gold: 1
+      diamond: 1
+      emerald: 1
+
+  kingdom:
+    KingdomTitle: true;
